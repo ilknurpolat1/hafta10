@@ -1,0 +1,1 @@
+Bu python scripti, komut satırından verilen argümanlar içinden belirli parametreleri ayrıştırmak için yazılmıştır derste bunu gördük.
